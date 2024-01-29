@@ -2,7 +2,6 @@ Hi, I'm [Odil Karimov]), a self-taught full-stack web developer and freelance so
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](karimovodilbek008@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -11,7 +10,6 @@ Hi, I'm [Odil Karimov]), a self-taught full-stack web developer and freelance so
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
