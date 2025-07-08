@@ -23,10 +23,8 @@ Here are list of the skills I have experience with.
     <br/>
   - ReactJS
     <br/>
-  - Tanstack query
+  - Angular
     <br/>
-  - GraphQL
-   <br/>
   - Redux toolkit 
     <br/>
   - Zustand
@@ -55,5 +53,3 @@ Here are list of the skills I have experience with.
     <br/>
 </details>
 <br>
-
-[![github](https://img.shields.io/github/followers/odilkarimov?logo=github&style=plastic)](https://github.com/odilkarimov?tab=followers)
