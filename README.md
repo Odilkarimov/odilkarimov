@@ -4,7 +4,7 @@ Here are list of the skills I have experience with.
 
 <details>
   <summary>
-    FrontEnd
+    Frontend
   </summary>
   <br/>
   - HTML5
