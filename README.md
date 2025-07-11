@@ -35,7 +35,7 @@ Here are list of the skills I have experience with.
     <br/>
   - Styled-components
     <br/>
-  - Material UI , Antd , Primeng , etc..
+  - Material UI , Antd , Primeng , etc...
     <br/>
   - etc.
 </details>
